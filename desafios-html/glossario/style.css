@@ -1,0 +1,22 @@
+body {
+    background-image: linear-gradient(to Bottom, gray, white);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+dt {
+    font-weight: bold;
+}
+
+a {
+    color: #fff;
+    background-color: black;
+    text-decoration: none;
+    width: 200px;
+}
+
+a:hover {
+    color: black;
+    background-color: #fff;
+    text-decoration: underline;
+}
